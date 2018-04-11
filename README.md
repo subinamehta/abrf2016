@@ -1,14 +1,15 @@
-# abrf2016
+# ABRF2017
 
-[Workshop at ABRF 2016 SW4] (https://conf.abrf.org/the-galaxy-platform)
+[Workshop at ABRF 2016 SW2] (https://conf.abrf.org/sw2-galaxy-platform-accessible-core-laboratory-solution-proteogenomic-analysis-and-informatics)
 
-**The Galaxy Platform for Multi-Omic Data Analysis and Informatics**
+**(SW2) The Galaxy Platform as an Accessible, Core Laboratory Solution for Proteogenomic Analysis and Informatics**
+**Sunday, April 22, 2018 (8:00am-12:00pm)**
 
 **Organizers**: Pratik Jagtap and Tim Griffin, University of Minnesota
 
-**Instructors**: Tim Griffin, Dave Clements, Candace Guerrero, Getiria Onsongo and Pratik Jagtap
+**Instructors**: Tim Griffin, Pratik Jagtap and Praveen Kumar
 
-The workshop material includes a basic introduction to Galaxy framework and its use for ‘omics’ data analysis. 
+This workshop 
 
 Workshop goals:
 
@@ -19,20 +20,19 @@ Workshop goals:
 
 
 Workshop Schedule:  Saturday February 20, 2016
-- *8:00am-8:30am*
-    Introduction to Galaxy Platform and multi-omic studies. (Tim Griffin)
-- *8:30am-10:00am*
-    Galaxy Tutorial – Basics of Data Analysis using Galaxy platform. (Dave Clements)
+- *8:00am-8:15am*
+    Introduction to Galaxy Platform and multi-omic studies. (Pratik Jagtap)
+- *8:15am-9:15am*
+    RNASeq Data Processing: Data Analysis using Galaxy platform. (Praveen Kumar)
+- *9:15 am – 10:00 am* 
+    Hands-on session for proteomics data analysis using Galaxy. (Tim Griffin)
+- *10:00 am – 10:30 am* 
+    Morning Refreshment Break
 - *10:30am – 12:00pm*
-    Hands-on session for proteomics data analysis using Galaxy. (Candace Guerrero)
-- *1:00pm – 1:30pm*
-    Introduction to multi-omics: proteogenomics and metaproteomics (Pratik Jagtap)
-- *1:30pm-3:00pm*
-    Proteogenomic analysis using Galaxy framework I: RNASeq data and sequence database generation. (Getiria Onsongo)
-- *3:30pm – 4:30pm*
-    Proteogenomic analysis using Galaxy framework II: Database search, filtering and visualization. (Pratik Jagtap)
-
+    Identification of novel proteoforms and visualization. (Pratik Jagtap)
+- *12:00pm – 1:00pm*
+    Lunch
+    
 Workshop materials:
-- [Workshop documentation](https://netfiles.umn.edu/xythoswfs/webview/_xy-17841770_1)
-- Basics of data analysis using Galaxy platform: [Short version](https://netfiles.umn.edu/xythoswfs/webview/_xy-17842559_1) and the [Long version](https://netfiles.umn.edu/xythoswfs/webview/_xy-17842560_1)
+- [Workshop documentation]()
 - Slides

@@ -1,4 +1,4 @@
-# ABRF2017
+# ABRF2018
 
 [Workshop at ABRF 2016 SW2] (https://conf.abrf.org/sw2-galaxy-platform-accessible-core-laboratory-solution-proteogenomic-analysis-and-informatics)
 
